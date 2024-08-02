@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4999&pause=1000&color=FFBF00&random=false&width=435&lines=Ol%C3%A1%2C+sou+o+Pedro Karkar!" alt="Typing SVG" /></a>
 
 ![pedrokarkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrokarkar&theme=dark#gh-dark-mode-only)
