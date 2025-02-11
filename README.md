@@ -10,6 +10,10 @@
 
 [![Pedro Karkar github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrokarkar&bg_color=000000&color=4005e3&line=4005e3&point=4005e3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+### Conecte-se Comigo:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pedrodjekem?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+
+
 ### Estudando Neste Momento:
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)&nbsp; 
@@ -28,5 +32,3 @@
  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4005e3&height=120&section=footer"/>
-
-<!-- https://github.com/inttter/md-badges -->
