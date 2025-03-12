@@ -14,7 +14,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pedrodjekem?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/pedro-karkar-1918a8302/)
 
-
 ### Estudando Neste Momento:
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)&nbsp; 
