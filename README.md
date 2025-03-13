@@ -8,6 +8,7 @@
 </div>
 
 
+
 [![Pedro Karkar github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrokarkar&bg_color=000000&color=4005e3&line=4005e3&point=4005e3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Conecte-se Comigo:
