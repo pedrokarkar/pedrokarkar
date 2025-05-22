@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+Nome+é+Pedro+Antonio+Karkar;Tenho+17+Anos;Sou+de+São+Paulo+,+SP;Sou+aluno+da+FIAP+School;Sejam+Bem-vindos!+:%29)](https://git.io/typing-svg)
 
   <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrokarkar&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FF0000&bg_color=0d1117" alt="Pedro Karkar github stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrokarkar&layout=compact&langs_count=7&theme=default&bg_color=000000&bg_opacity=30%&title_color=ffffff&text_color=ffffff&icon_color=00ff00&hide_border=true&border_radius=7.5"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrokarkar&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FF0000&bg_color=0d1117" alt="Pedro Karkar github stats" /> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrokarkar&layout=compact&langs_count=7&theme=default&bg_color=000000&bg_opacity=30%&title_color=FF0000&text_color=FF0000&icon_color=00ff00&hide_border=true&border_radius=7.5"/>
   </div>
   <br><br>
 Eu estudo na FIAP School desde 2024, mas antes passei pela escola BIS (Brazilian International School), onde estudei de 2009 até o final de 2023. Esses 14 anos na BIS me proporcionaram fluência em inglês, assim como várias outras competências. No entanto, como sempre fui apaixonado por computadores, decidi, no 1º ano do ensino médio, sair da BIS e vir para a FIAP para começar a aprender programação, algo com que me identifiquei muito e que irei seguir na minha vida acadêmica.
